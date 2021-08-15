@@ -1,4 +1,3 @@
-Check Git Merg
-e
-Check new file addedAAABBB
+Check Git Merge
+Check new file addedAAABBBCCC
 New Line added
